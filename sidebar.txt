@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yap:home|Door43 (yap)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yap|d43-yap repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yap/archive/master.zip|d43-yap.zip]]
+
+**Recent Changes**
+{{changes>ns = yap}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yap|Ethnologue data]]
+
